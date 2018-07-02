@@ -9,3 +9,6 @@ Other code playgrounds:
 1. [Plnkr](https://plnkr.co/edit/?p=catalogue)
 1. [JSFiddle](https://jsfiddle.net/)
 1. [JSBin](http://jsbin.com/?html,css,js,console,output)
+
+References:
+1. [CSS ref](https://cssreference.io/)

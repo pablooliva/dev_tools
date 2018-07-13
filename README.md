@@ -12,3 +12,4 @@ Other code playgrounds:
 
 References:
 1. [CSS ref](https://cssreference.io/)
+2. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)

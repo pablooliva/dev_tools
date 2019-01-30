@@ -12,5 +12,6 @@ Other code playgrounds:
 1. [JSBin](http://jsbin.com/?html,css,js,console,output)
 
 References:
-1. [CSS ref](https://cssreference.io/)
-2. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+1. [Dev docs](https://devdocs.io/)
+2. [CSS ref](https://cssreference.io/)
+3. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)

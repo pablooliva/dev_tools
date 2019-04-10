@@ -13,5 +13,6 @@ Other code playgrounds:
 
 References:
 1. [Dev docs](https://devdocs.io/)
+2. [Awesome Lists](https://awesomelists.top/)
 2. [CSS ref](https://cssreference.io/)
 3. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)

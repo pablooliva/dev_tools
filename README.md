@@ -13,10 +13,14 @@ Other code playgrounds:
 1. [CodePad](http://codepad.org)
 1. [IdeaOne](https://www.ideone.com)
 
-References:
+Front End ref:
 1. [Dev docs](https://devdocs.io/)
 2. [Awesome Lists](https://awesomelists.top/)
 2. [CSS ref](https://cssreference.io/)
 3. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 4. [CSS Effects](https://cssfx.dev/)
 5. [JQ to JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+
+PHP
+1. [Design patterns](https://designpatternsphp.readthedocs.io/en/latest/)
+2. [Best practices](https://rules.sonarsource.com/php/RSPEC-5335)

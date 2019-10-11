@@ -24,3 +24,6 @@ Front End:
 PHP:
 1. [Design patterns](https://designpatternsphp.readthedocs.io/en/latest/)
 2. [Best practices](https://rules.sonarsource.com/php/RSPEC-5335)
+
+Misc:
+1. [JustPaste.it](https://justpaste.it/)

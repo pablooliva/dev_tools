@@ -7,7 +7,7 @@
 1. [JSON viewer, formatter](https://codebeautify.org/jsonviewer)
 
 Other code playgrounds:
-1. [JSBin - has console](http://jsbin.com/?html,css,js,console,output)
+1. [JSBin](http://jsbin.com/?html,css,js,console,output) - has console
 1. [Plnkr](https://plnkr.co/edit/?p=catalogue)
 1. [JSFiddle](https://jsfiddle.net/)
 1. [CodePad](http://codepad.org)

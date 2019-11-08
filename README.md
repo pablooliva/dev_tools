@@ -5,6 +5,7 @@
 1. [NG4+ Plunker](https://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5?p=preview)
 1. [CSS formatter](https://www.cleancss.com/css-beautify/)
 1. [JSON viewer, formatter](https://codebeautify.org/jsonviewer)
+1. [JSON CLI](https://www.npmjs.com/package/fx)
 
 Other code playgrounds:
 1. [JSBin](http://jsbin.com/?html,css,js,console,output) - has console

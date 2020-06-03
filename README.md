@@ -1,4 +1,6 @@
 1. [RxViz: animated playground for Rx Observables](https://rxviz.com/)
+1. [RxJS source](http://reactivex.io/documentation/operators.html)
+1. [RxJS learn](https://www.learnrxjs.io/)
 1. [NG4+ Stackblitz](https://stackblitz.com/edit/angular4)
 1. [NG4+ CodeSandbox](https://codesandbox.io/s/angular)
 1. [NG playground](http://www.angularplayground.it/)

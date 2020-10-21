@@ -43,6 +43,7 @@ PHP:
 Misc:
 
 1. [JustPaste.it](https://justpaste.it/)
+2. [Icons](https://systemuicons.com/)
 
 API/Requests:
 

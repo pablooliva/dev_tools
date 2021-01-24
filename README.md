@@ -33,7 +33,13 @@ Front End:
 2. [CSS ref](https://cssreference.io/)
 3. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 4. [CSS Effects](https://cssfx.dev/)
-5. [JQ to JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+
+Plain JS
+1. [JQ to JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)
+2. [Plain JS](https://plainjs.com/)
+3. [Manage DOM](https://htmldom.dev/)
+4. [You might not need JQuery](http://youmightnotneedjquery.com/)
+5. [You don't need JQuery](https://github.com/nefe/You-Dont-Need-jQuery)
 
 PHP:
 

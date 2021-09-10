@@ -34,6 +34,7 @@ Front End:
 2. [CSS ref](https://cssreference.io/)
 3. [Chrome Dev Tools CLI](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
 4. [CSS Effects](https://cssfx.dev/)
+5. [PX to REM](https://nekocalc.com/px-to-rem-converter)
 
 Plain JS
 1. [JQ to JS](https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/)

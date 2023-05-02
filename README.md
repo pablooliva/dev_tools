@@ -52,6 +52,7 @@ Misc:
 
 1. [JustPaste.it](https://justpaste.it/)
 2. [Icons](https://systemuicons.com/)
+3. [RegExGPT](https://regexgpt.app/)
 
 API/Requests:
 
